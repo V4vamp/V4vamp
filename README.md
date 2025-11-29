@@ -1,5 +1,11 @@
 # 💫 About Me:
-- 👋 Hi, I’m @V4vamp<br>- 👀 I’m interested in ...Web and Software development<br>- 🌱 I’m currently learning ...Full-Stack Software Development; JavaScript, TypeScript<br>- 💞️ I’m looking to collaborate on ...<br>- 📫 How to reach me ...yusoofjnr@outlook.com
+👋 Hi, I’m Muhammad Mukhtar<br>
+
+I’m a Frontend Engineer with a strong focus on React, Next.js, and TypeScript, passionate about building clean, scalable, and user-centric web applications. With over a year of hands-on experience, I enjoy transforming ideas into polished interfaces and solving real problems through code.<br />
+
+I’ve worked on projects across education, NGOs, SaaS, and AI, including full-stack setups using Express.js, cloud integrations with AWS, responsive UI development, and modern state management. I’m also currently exploring mobile development and expanding my knowledge across the frontend ecosystem. <br />
+
+When I’m not coding, you’ll probably find me traveling, watching football, gaming, or enjoying anime.
 
 
 ## 🌐 Socials:
