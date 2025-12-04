@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi, I’m Muhammad Mukhtar<br>
 
-I’m a Frontend Engineer with a strong focus on React, Next.js, and TypeScript, passionate about building clean, scalable, and user-centric web applications. With over a year of hands-on experience, I enjoy transforming ideas into polished interfaces and solving real problems through code.<br />
+I’m a Full-Stack Engineer with a strong focus on React, Next.js, and TypeScript, passionate about building clean, scalable, and user-centric web applications. With over a year of hands-on experience, I enjoy transforming ideas into polished interfaces and solving real problems through code.<br />
 
 I’ve worked on projects across education, NGOs, SaaS, and AI, including full-stack setups using Express.js, cloud integrations with AWS, responsive UI development, and modern state management. I’m also currently exploring mobile development and expanding my knowledge across the frontend ecosystem. <br />
 
